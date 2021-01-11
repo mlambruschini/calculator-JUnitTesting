@@ -10,7 +10,7 @@ public class Calculator {
     }
 
     public void cos(double v) {
-        throw new UnsupportedOperationException("Trogonometry not supoprted");
+        throw new UnsupportedOperationException("Trigonometry not supoprted");
     }
 
     public void slowCalculation() {
